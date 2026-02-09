@@ -96,7 +96,7 @@ Password: recipepass
 
 ## 📦 Project Structure
 ```
-src/main/java/com/yourname/recipematcher/
+src/main/java/com/simohoff/recipematcher/
 ├── config/              # Spring configuration
 ├── domain/              # Entities, repositories
 ├── service/             # Business logic
