@@ -1,0 +1,25 @@
+# Compiled class files
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Application properties mit sensiblen Daten (später wichtig)
+# application-local.yml
+# application-prod.yml
